@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Head First Java Notes'
+title: "Head First Java Notes"
 date: 2014-07-01 16:28:08
 tags:
 ---

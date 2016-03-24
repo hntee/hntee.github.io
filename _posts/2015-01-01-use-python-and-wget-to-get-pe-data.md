@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 用python和wget来抓取中证市盈率数据
+title: "用python和wget来抓取中证市盈率数据"
 date: 2014-03-12 11:50:00
 tags: 
 ---
