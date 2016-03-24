@@ -10,8 +10,6 @@ I just watched [a speech][1] by [Chris Coyier][2] about CSS pseudo elements. It 
 
 These methods are mostly in a `:before` or a `:after` pseudo class. With these two, we can add content without configuring the html file.
 
-<!-- more -->
-
 ### A quotation mark before and after a blockquote
 [DEMO][3]
 

@@ -1,3 +1,5 @@
+---
+layout: post
 title: 解决 jq.template.js 与 erb 渲染 <%= %> 时的冲突 
 date: 2014-05-17 16:06:12
 tags:

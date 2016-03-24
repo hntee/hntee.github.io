@@ -8,8 +8,6 @@ categories:
 
 For the last three weeks, I've been learning ruby on [Tealeaf Academy][1]. It is a great site for learning ruby on rails. The instructors are so nice and the course materials are easy to understand. However the first course only covers Sinatra and Rails will be covered in the next course. So I only used Sinatra to develop this app.
 
-<!-- more -->
-
 Here's what I have learnt in these days.
 
 ### Basic Ruby Syntax 

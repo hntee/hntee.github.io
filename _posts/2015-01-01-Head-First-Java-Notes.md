@@ -1,3 +1,5 @@
+---
+layout: post
 title: 'Head First Java Notes'
 date: 2014-07-01 16:28:08
 tags:
@@ -5,7 +7,7 @@ tags:
 
 
 After a few days' reading, I have finally gone through this book. Here are some of my notes.
-<!-- more -->
+
 # polymorphism
 
 With polymorphism, the reference and the object can be different. And the subclass methods can be called via a suuperclass type.
