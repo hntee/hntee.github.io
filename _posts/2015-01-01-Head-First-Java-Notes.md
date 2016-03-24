@@ -72,6 +72,7 @@ abstract class Canine extends Animal {
 
 # define and implement an interface
 Methods in an interface must be all abstract.
+
 ```java
 public interface Pet {
     // interface methods are implicitly public and abstract,
