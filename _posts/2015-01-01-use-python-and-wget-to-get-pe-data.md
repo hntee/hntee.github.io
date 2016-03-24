@@ -24,7 +24,8 @@ tags:
 
 所以想到用python按照日期生成URL，再用wget先嗅探再下载。
 
-###python代码：
+### python代码：
+
 ```python
 	import datetime
 
@@ -47,7 +48,7 @@ tags:
 
 这时候就生成了`datesUrl.txt`，再用`wget`的`--spider`参数探测哪些是可用链接。
 
-###bash代码：
+### bash代码：
 
 ```
 #!/bin/bash
